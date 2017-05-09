@@ -9,11 +9,11 @@ Vue Server Side Render
     创建 index.html 入口页面；
     创建 node 服务；
 
-安装依赖项
+# 安装依赖项
 
 安装如下依赖项：
-
-# npm install vue --save
-# npm install express --save
-# npm install vue-server-renderer --save
+使用 npm init 命令为应用程序创建 package.json 文件
+npm install vue --save
+npm install express --save
+npm install vue-server-renderer --save
 
