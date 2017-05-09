@@ -1,0 +1,24 @@
+{
+  "name": "vue-ssr",
+  "version": "1.0.0",
+  "description": "vue-server-render",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raven1207/vue-ssr.git"
+  },
+  "author": "yafei.wu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raven1207/vue-ssr/issues"
+  },
+  "homepage": "https://github.com/raven1207/vue-ssr#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "vue": "^2.3.2",
+    "vue-server-renderer": "^2.3.2"
+  }
+}
