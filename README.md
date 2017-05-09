@@ -13,6 +13,7 @@ Vue Server Side Render
 
 安装如下依赖项：
 使用 npm init 命令为应用程序创建 package.json 文件
+
 npm install vue --save
 
 npm install express --save
